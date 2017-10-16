@@ -1,5 +1,5 @@
 {
-  "name": "agar-clone",
+  "name": "herokuapp-clothlen-agario-test",
   "description": "A simple Agar.io clone",
   "scripts": {
     "build": "gulp build",
